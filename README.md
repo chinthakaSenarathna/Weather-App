@@ -30,8 +30,8 @@ This is a full-stack weather application built with React.js and secured using A
 ### 1. Clone the Repository
 
 -> in bash
-git clone https://github.com/yourusername/weather-app-auth0.git
-cd weather-app-auth0
+git clone https://github.com/chinthakaSenarathna/Weather-App.git
+cd weather-app
 
 ### 2. Install Dependencies
 
