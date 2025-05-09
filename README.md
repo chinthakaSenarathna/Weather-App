@@ -49,3 +49,20 @@ npm start
 
 ## ⚙️ Auth0 Configuration
 
+Note: The test account provided in the assignment instructions (careers@fidenz.com) could not be created due to Auth0 limitations.
+To proceed with testing, I created my own Auth0 account and registered few users and then diable Sign up.
+Only those pre-registered users can access the application.
+
+### 1. Configure Application URIs
+
+![Image](https://github.com/user-attachments/assets/b81f47a3-4481-456c-91d9-ce7673eedb5d)
+
+### 2. Multi-factor Authentication
+
+![Image](https://github.com/user-attachments/assets/68b3edea-46d9-4212-b6ed-202a1f3fb0a0)
+
+![Image](https://github.com/user-attachments/assets/1031c288-80d2-4c8a-8e37-22a3b52ce49c)
+
+### 3. Restrict Signups
+
+![Image](https://github.com/user-attachments/assets/f653c1b2-2874-4dc3-870e-594ae0871b3d)
